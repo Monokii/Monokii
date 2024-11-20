@@ -1,5 +1,7 @@
-## 만나서 반가워요 👋
-<p>저는 모노키라고 해요. 그리고, 방구석에서 따뜻하게 있는 걸 좋아하죠.</p>
+<img src="Mona Whisper.gif" style="width: 80px;">
+
+## 만나서 반가워요
+<p>저는 모노키라고 해요. 그리고, 침대에서 장판을 켜고 따뜻하게 이불을 덮고 있는 것을 좋아하죠.</p>
 <!--
 **Monokii/Monokii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
