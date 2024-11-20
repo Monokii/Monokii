@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 만나서 반가워요 👋
+<p>저는 모노키라고 해요. 그리고, 방구석에서 따뜻하게 있는 걸 좋아하죠.</p>
 <!--
 **Monokii/Monokii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
