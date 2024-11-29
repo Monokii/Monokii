@@ -2,7 +2,7 @@
 
 ## 만나서 반가워요
 <p>저는 모노키라고 해요. 그리고, 침대에서 장판을 켜고 따뜻하게 이불을 덮고 있는 것을 좋아하죠.<br>저는 따뜻한 걸 매우 좋아해요. 그래서, 여름에도 장판을 켜두고 자죠. (이 얘기를 들은 사람들은 왜 그러냐고 말하지만요.) </p>
-<h6>유튜브에 'Monoki' 닉네임을 사용하는 음악 채널이 있어요, 그 채널은 저와 관련이 전혀 없어요.</h6>
+<h6>유튜브에 'Monoki'라는 채널명을 사용하는 음악 채널이 있어요, 그 채널은 저도 아니고 저와 관련이 전혀 없어요.</h6>
 
 <!-- [![Monokii's GitHub stats](https://github-readme-stats.vercel.app/api?username=monokii)](https://github.com/monokii/github-readme-stats) -->
 <div style="display: flex; gap: 10px;">
